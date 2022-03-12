@@ -10,7 +10,7 @@ int main (void)
 	char low, e, q;
 
 	e = 'a';
-	q = 'q'
+	q = 'q';
 		for (low = 'a'; low <= 'z'; low++)
 		{
 			if (low != e && low != q)
