@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs - computes the absolute value interger
+ * _abs - computes the absolute value for an interger
  * @n: interger tested
  * Return 0 or 1
  */
