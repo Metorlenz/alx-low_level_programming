@@ -21,7 +21,7 @@ int numLength(int num)
 	}
 
 
-	return (lenght);
+	return (length);
 }
 
 /**
