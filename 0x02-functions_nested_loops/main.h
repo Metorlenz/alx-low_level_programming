@@ -17,3 +17,6 @@ int _isalpha(int n);
 
 /*sign*/
 int print_sign(int n);
+
+/*abs*/
+int _abs(int n);
