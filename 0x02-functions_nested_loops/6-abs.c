@@ -4,7 +4,7 @@
  *_abs - Check putchar
  * @n: interger tested
  * Description: This function returns absolute value of a number
- * Return 0 or 1
+ * Return: 0 or 1
  */
 int _abs(int n)
 {
