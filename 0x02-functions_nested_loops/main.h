@@ -35,3 +35,5 @@ int add(int a, int b);
 
 /*print to 98*/
 void print_to_98(int n);
+
+void print_times_table(int n);
