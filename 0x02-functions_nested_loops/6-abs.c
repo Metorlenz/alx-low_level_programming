@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs - computes the absolute value for an interger
+ *_abs - Check putchar
  * @n: interger tested
  * Description: This function returns absolute value of a number
  * Return 0 or 1
