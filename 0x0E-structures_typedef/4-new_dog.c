@@ -1,4 +1,3 @@
-es (41 sloc)  866 Bytes
 #include "dog.h"
 #include <stdlib.h>
 /**
